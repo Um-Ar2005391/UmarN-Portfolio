@@ -16,8 +16,9 @@ Loyola University, MD
 ### Projects
 
 #### Inventory Management and Loan Calculation
- - ![]()
- - Report
+ - ![Managment system for store items](/Images/ExcelProject/InventoryManagment.png)
+ - ![System made to compare different loan types](/Images/ExcelProject/InventoryLoan.png)
+ - This project 
 
 ***
 #### Python Personality Quiz
@@ -27,5 +28,7 @@ Loyola University, MD
 
 ***
 #### Student Transcripts in Microsoft Access
- - ![]()
+ - ![Grade Table with semesters, class codes, and names](/Images/AccessProject/GradeTable.png)
+ - ![Query used to create transcripts](/Images/AccessProject/Querys.png)
+ - ![First page of transcripts](/Images/AccessProject/Transcript.png)
  - write up
