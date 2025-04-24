@@ -16,15 +16,15 @@ Loyola University, MD
 ### Projects
 
 #### Inventory Management and Loan Calculation
- - image
+ - ![]()
  - Report
 
 ***
 #### Python Personality Quiz
- - image
+ - ![]()
  - write up
 
 ***
 #### Student Transcripts in Microsoft Access
- - image
+ - ![]()
  - write up
