@@ -21,7 +21,8 @@ Loyola University, MD
 
 ***
 #### Python Personality Quiz
- - ![]()
+ - ![Results of the Personality Code](/Images/CodingProject/Ran_code.png)
+ - ![Framework of the Personality Code](/Images/CodingProject/CODEFrame.png)
  - write up
 
 ***
