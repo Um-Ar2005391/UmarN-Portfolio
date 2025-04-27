@@ -16,9 +16,12 @@ Loyola University, MD
 ### Projects
 
 #### Inventory Management and Loan Calculation
- This project involved building upon Excel sheets with tools like VLOOKUP and PMT functions to create a comprehensive inventory management system and view options for loan financing.  
+
+This project involved building upon Excel sheets with tools like VLOOKUP and PMT functions to create a comprehensive inventory management system and view options for loan financing.
+
  ![Managment system for store items](/Images/ExcelProject/InventoryManagment.png)
  ![System made to compare different loan types](/Images/ExcelProject/InventoryLoan.png)
+
 ***Initial project idea:***  
  
 This project was built upon the work of assessments 5, 6, and 7; in these projects I constructed an Inventory Manager with conditional formatting and equations. For this project I needed to create a separate sheet to use the v-lookup function and create another table to analyze potential financing options.   
@@ -41,35 +44,41 @@ I set out to create a comprehensive financial analysis tool within my inventory 
 
 ***
 #### Python Personality Quiz
- The Personality Test project involved coding an interactive quiz, using while loops, if statements, and error checking, to give personality results based on user inputs; it acted as a test for coding ability and creativity.  
+
+The Personality Test project involved coding an interactive quiz, using while loops, if statements, and error checking, to give personality results based on user inputs; it acted as a test for coding ability and creativity.  
+ 
  ![Results of the Personality Code](/Images/CodingProject/Ran_code.png)
  ![Framework of the Personality Code](/Images/CodingProject/CODEFrame.png)
+
 ***Initial project idea:***  
 
-The purpose of this project was to code a test that could tell someone their personality type depending on the questions they answered. It was meant to be a way to practice print statements, conditionals, while loops, and error checking within Python; we had previously completed projects that focused on one or more of these tools, but this project pushed us to use every tool we had learned.  
+This project aimed to code a test that could tell someone their personality type depending on the questions they answered. It was meant to be a way to practice print statements, conditionals, while loops, and error checking within Python; we had previously completed projects that focused on one or more of these tools, but this project pushed us to use every tool we had learned.  
 
 ***Tools I used:*** 
 
-The tools used in Python included print statements, while loops, break or continue commands, if-elif-else statements, typecasting, capatilizing, digit checking, and variables. 
+The tools used in Python included print statements, while loops, break or continue commands, if-elif-else statements, typecasting, capitalizing, digit checking, and variables. 
 
 ***Challenges I faced:***
 
-The main challenge that I encountered with this project was creating error checking methods that would catch different types of errors at different parts. In the original code I attempted to use the first check would see if the input was a digit, then pass to if it was a viable character. If a number was input the second time around it would break. I corrected this issue by creating a while loop that would continously run until all checks were passed; by using a key variable to keep the loop going until that key was changed, the error checking was more rigorous and less likely to fail. 
+My main challenge with this project was creating error checking methods that would catch different types of errors at different parts. In the original code, I attempted to use the first check would see if the input was a digit, then pass to if it was a viable character. If a number was input the second time around, it would break. I corrected this issue by creating a while loop that would continuously run until all checks were passed; by using a key variable to keep the loop going until that key was changed, the error checking was more rigorous and less likely to fail. 
 
 ***Other Resources:***  
 
-I primarily used class materials to complete this project; although I did use guides to help streamline certain areas of code, such as recognizing the range of viable letters for user input.  
+I primarily used class materials to complete this project, although I did use guides to help streamline certain areas of code, such as recognizing the range of viable letters for user input.  
 
 ***Result:***
 
-I did manage to code a working personality test with proper error checking and display of results; however, I would’ve liked to reduce the lines of code that I used. Most of the code is the same with only variables and question text swapped.  
+I did manage to code a working personality test with proper error checking and display of results; however, I would’ve liked to reduce the lines of code that I used. Most of the code is the same, with only variables and question text swapped.  
 
 ***
 #### Student Transcripts in Microsoft Access
- The Microsoft Access project involved creating student and grade tables, a relationship, and queries for the tables that allowed me to create a pair of student transcripts separated into semesters and display GPAs.  
+
+The Microsoft Access project involved creating student and grade tables, a relationship, and queries for the tables that allowed me to create a pair of student transcripts separated into semesters and display GPAs.  
+ 
  ![Grade Table with semesters, class codes, and names](/Images/AccessProject/GradeTable.png)
  ![Query used to create transcripts](/Images/AccessProject/Querys.png)
  ![First page of transcripts](/Images/AccessProject/Transcript.png)
+
 ***Initial project idea:***  
 
 The goal of this project was to create a table of students, a table of 50 different classes with grades, and a pair of student transcripts using Microsoft Access.  
