@@ -20,6 +20,7 @@ Loyola University, MD
 This project involved building upon Excel sheets with tools like VLOOKUP and PMT functions to create a comprehensive inventory management system and view options for loan financing.
 
  ![Managment system for store items](/Images/ExcelProject/InventoryManagment.png)
+ 
  ![System made to compare different loan types](/Images/ExcelProject/InventoryLoan.png)
 
 ***Initial project idea:***  
@@ -28,7 +29,7 @@ This project was built upon the work of assessments 5, 6, and 7; in these projec
 
 ***Tools I used:***
 
-Two excel tools were primarily used for this project, the VLOOKUP function and the PMT function for loan calculations. I also used various functions of excel like dragging equations, conditional formatting, text wrapping, and sum equations to give more detailed information regarding loan amounts.   
+Two Excel tools were primarily used for this project, the VLOOKUP function and the PMT function for loan calculations. I also used various functions of Excel, like dragging equations, conditional formatting, text wrapping, and sum equations to give more detailed information regarding loan amounts.   
 
 ***Challenges I faced:***
 
@@ -48,6 +49,7 @@ I set out to create a comprehensive financial analysis tool within my inventory 
 The Personality Test project involved coding an interactive quiz, using while loops, if statements, and error checking, to give personality results based on user inputs; it acted as a test for coding ability and creativity.  
  
  ![Results of the Personality Code](/Images/CodingProject/Ran_code.png)
+ 
  ![Framework of the Personality Code](/Images/CodingProject/CODEFrame.png)
 
 ***Initial project idea:***  
@@ -76,7 +78,9 @@ I did manage to code a working personality test with proper error checking and d
 The Microsoft Access project involved creating student and grade tables, a relationship, and queries for the tables that allowed me to create a pair of student transcripts separated into semesters and display GPAs.  
  
  ![Grade Table with semesters, class codes, and names](/Images/AccessProject/GradeTable.png)
+ 
  ![Query used to create transcripts](/Images/AccessProject/Querys.png)
+ 
  ![First page of transcripts](/Images/AccessProject/Transcript.png)
 
 ***Initial project idea:***  
